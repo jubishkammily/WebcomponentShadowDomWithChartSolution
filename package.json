@@ -24,7 +24,8 @@
   "dependencies": {
     "@stencil/core": "2.4.0",
     "apexcharts": "^3.24.0",
-    "chart.js": "^2.9.4"
+    "chart.js": "^2.9.4",
+    "stencil-apexcharts": "^2.1.1"
   },
   "license": "MIT",
   "devDependencies": {
